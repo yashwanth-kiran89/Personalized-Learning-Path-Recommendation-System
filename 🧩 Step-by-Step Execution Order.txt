@@ -188,10 +188,3 @@ This answer is strong, honest, and professional.
 
 👉 It is a Data Science project with Machine Learning at its core, built exactly how real ML systems are developed.
 
-If you want next:
-
-Resume-ready project description
-
-Interview Q&A
-
-Web UI integration plan (React + Express)
