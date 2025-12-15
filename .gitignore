@@ -1,0 +1,38 @@
+# =========================
+# Python / Virtual Env
+# =========================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Model Artifacts (Generated)
+# =========================
+models/
+*.h5
+*.pkl
+
+# =========================
+# Data files (Generated)
+# =========================
+preprocessed_student_data.csv
+
+# =========================
+# Local Documentation
+# =========================
+Step-by-Step-Execution-Order.txt
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
