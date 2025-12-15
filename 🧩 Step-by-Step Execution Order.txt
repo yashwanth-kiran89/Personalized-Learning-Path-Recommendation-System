@@ -174,11 +174,6 @@ Model stabilizes
 
 This is expected behavior, not a bug.
 
-🧑‍💼 Professional Justification (Interview-Safe)
-
-“The project focuses on building a complete Machine Learning pipeline rather than maximizing accuracy. It demonstrates preprocessing, model training, prediction, evaluation, and recommendation mapping using real ML workflows.”
-
-This answer is strong, honest, and professional.
 
 ✅ Final Verdict
 
